@@ -139,22 +139,133 @@
 // console.log(result68);
 
 ////
-let user = 'Rafig Mammadzada'
-const user1 = user.split(' ')
-console.log(user1);
-const user2 = user.split('')
-console.log(user2);
-const user3 = user.split('a')
-console.log(user3);
-const user4 = user.split(',')
-console.log(user4);
+// let user = 'Rafig Mammadzada'
+// const user1 = user.split(' ')
+// console.log(user1);
+// const user2 = user.split('')
+// console.log(user2);
+// const user3 = user.split('a')
+// console.log(user3);
+// const user4 = user.split(',')
+// console.log(user4);
 
 
 
-///
-const studentarr = ['rafig', 'nicat','mehemmed','heydar' , 'abbas']
+// ///
+// const studentarr = ['rafig', 'nicat','mehemmed','heydar' , 'abbas']
 
- console.log((item) => `username: ${studentarr}`);
+//  console.log((item) => `username: ${studentarr}`);
 
-const studentsText = studentarr.join(' ')
-console.log(studentsText);
+// const studentsText = studentarr.join(' ')
+// console.log(studentsText);
+
+// let age = 17
+//     age > 22
+//     ? console.log('1')
+//     : console.log('2');
+
+// //
+
+
+
+//     let user = 'Rafig'
+//     user.toLowerCase().startsWith('r')
+//     ? console.log('1')
+//    : console.log('2');
+//    //
+// user.endsWith('g')
+// ? console.log('1')
+// : console.log('2');
+
+
+// //
+
+//     function sumNum() {
+//        let a =8
+//        let b =9
+//         console.log(a + b);
+//     }
+//     sumNum()
+
+//     function sumNum1() {
+//         return 8 + 9
+        
+//     }
+//     console.log(sumNum1());
+
+// //
+
+// function multNum() {
+//     a =19 
+//     b =59
+//     c = 9
+//     console.log(a * b * c);
+// }
+// multNum()
+
+// function multNum1() {
+//     return 19 * 59 * 9
+// }
+// console.log(multNum1());
+// //
+
+// const arr = [1,2,3,4,5,6,7]
+// function getavg(anyarray) {
+// let sum6 = 0
+// anyarray.map((age) => sum6 += age)
+// return Math.round(sum6 / anyarray.length)
+// }
+// console.log(getavg(arr));
+
+
+// //
+// function getusers () {
+// const result = studentarr.filter(name => name.startsWith('r'));
+// return result;
+// }
+// console.log(getusers(studentarr));
+
+
+// //
+
+
+// function getusers1 () {
+//     const result1 = studentarr.filter(name => name.length > 5);
+//     return result1;
+//     }
+//     console.log(getusers1(studentarr));
+
+
+// for (let i = 0; i <21;i++) {
+//     console.log(i);
+// }
+
+// let myname = 'rafig'
+// for (let i = 0; i < myname.length; i++){
+//     console.log(myname[i]);
+// }
+
+// for (let i = 0; i <20 ; i++){
+//     if (i % 2)
+//     console.log(i);
+// }
+// for (let a = 0; a <20 ; a++){
+//     if (a % 2 == 0)
+//     console.log(a);
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
