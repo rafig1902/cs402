@@ -31,8 +31,10 @@ app.delete('/:id' , (req,res) =>{
 app.post('/' , (req,res) =>{
     const userbody = req.body
     users.push(userbody)
-    res.send('User added')
+    res.send('User added successfully')
 })
+
+
 
 
 const PORT = process.env.PORT
